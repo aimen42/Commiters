@@ -1,0 +1,7 @@
+{
+  "name": "DevDate - Code & Collaborate",
+  "description": "A niche dating app for developers where matching is based on coding interests and project collaboration. Features a multi-step signup with AI verification and project-focused profiles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
